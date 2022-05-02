@@ -1,0 +1,13 @@
+Book with ID 5 was checked out on: 17/12/2020 by member with ID 2355.
+Book with ID 3 was checked out on: 17/12/2020 by member with ID 2452.
+Book with ID 4 was checked out on: 17/12/2020 by member with ID 2234.
+Book with ID 5 was returned on: 17/12/2020.
+Book with ID 9 was checked out on: 17/12/2020 by member with ID 2452.
+Book with ID 10 was checked out on: 17/12/2020 by member with ID 2234.
+Book with ID 8 was checked out on: 17/12/2020 by member with ID 2452.
+Book with ID 1 was checked out on: 17/12/2020 by member with ID 2234.
+Book with ID 4 was returned on: 17/12/2020.
+Book with ID 1 was returned on: 17/12/2020.
+Book with ID 3 was returned on: 17/12/2020.
+Book with ID 2 was returned on: 17/12/2020.
+Book with ID 1 was checked out on: 17/12/2020 by member with ID 1245.
