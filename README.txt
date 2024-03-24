@@ -1,3 +1,5 @@
+Command line/Text-based UI
+
 To use the program the user must execute 'menu.py' and make use of the text
 user interface (TUI) in order to make use of the system.
 
